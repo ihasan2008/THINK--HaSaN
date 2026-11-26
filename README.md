@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 🌍 HASAN
+# THINK--HaSaN
 
 ### Explore • Learn • Think • Understand
 
