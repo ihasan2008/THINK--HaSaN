@@ -68,19 +68,14 @@ The goal is to explore different perspectives, ask meaningful questions, think c
 ## 📂 Repository Structure
 
 ```text
-ihasan2008/
+ihasan2008/THINK--HaSaN
 │
 ├── README.md
 │
-├── World/
-├── Humanity/
-├── Religion/
-├── Philosophy/
-├── Science/
-├── Environment/
-├── Technology/
-├── Systems/
-└── Research/
+├── THINK-001/
+├── THINK-002/
+├── THINK-003/
+└── ...
 ```
 
 *The repository structure may evolve as new areas of knowledge are explored.*
